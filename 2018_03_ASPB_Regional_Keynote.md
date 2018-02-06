@@ -33,7 +33,8 @@ against my grammatical mistakes and typos, I hope the abstract might spark ideas
 topics you think I should address, preferably with references, examples, etc. Filing
 Issues would be better than typo fixes (esp. since this is submitted, but I will
 pass these along if there is time to fix before printing). Will also credit you
-in my slides!
+in my slides! To make a suggestion (aka an Issue), click the "Issues" tab at the
+top of this page. 
 
 # Why do this?
 
