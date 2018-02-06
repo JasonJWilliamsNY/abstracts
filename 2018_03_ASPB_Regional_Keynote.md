@@ -29,8 +29,8 @@ shape the trajectory (if not the details) of the science to come.
 # How to contribute
 
 While I am embarrassed (but gratified) you care enough to comment or submit a PR
-against my grammatical mistakes, typos, I hope the abstract might spark ideas of
-topics you think I should address - with references, examples, etc. Filing
+against my grammatical mistakes and typos, I hope the abstract might spark ideas about
+topics you think I should address, preferably with references, examples, etc. Filing
 Issues would be better than typo fixes (esp. since this is submitted, but I will
 pass these along if there is time to fix before printing). Will also credit you
 in my slides!
