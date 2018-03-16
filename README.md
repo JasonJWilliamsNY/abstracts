@@ -7,3 +7,4 @@ or give other helpful examples or comments that may sharpen the eventual talk
 
 
 - [American Society of Plant Biology - Southern Section Annual Meeting: March 2018](./2018_03_ASPB_Regional_Keynote.md)
+- [Bioinformatics Open Source Conference: June 2018](./2018_06_BOSC.md)
